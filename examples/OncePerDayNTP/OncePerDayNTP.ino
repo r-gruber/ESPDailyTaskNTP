@@ -37,7 +37,7 @@ SNTPtime NTPwork("ch.pool.ntp.org");
 #ifdef D2
 #define RESET_PIN D2
 #else
-#define RESET_PIN 2
+#define RESET_PIN 4
 #endif
 
 #define my_SSID "YOUR_SSID"
